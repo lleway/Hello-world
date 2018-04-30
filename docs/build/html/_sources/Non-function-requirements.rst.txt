@@ -1,0 +1,27 @@
+Non-function-requirements
+==========================
+
+Response time 
+---------------
+Since this is an academic program and it is possible for
+biologists to pay more attention to these data than the average person,
+it should be as short as possible.
+So the provisional response time <5 seconds.
+
+Aesthetic aspects
+-------------------
+Since this is an academic procedure, 
+it should be as concise as possible 
+so that biologists can use it as quickly as possible 
+and understand this software. 
+
+Confidentiality Policy
+----------------------
+    As a public web application, the security of data must be a 
+    significant part to be considered. Especially for biologists, 
+    every experiment result is derived uneasily. Therefore, when 
+    users are using the application, their data must be used and 
+    stored properly.
+    In other words, **the web application must maintain the experiment data's** 
+    **reliability, integration and secrecy and the experimental data will not** 
+    **be divulged without the agreement of the owner.**
